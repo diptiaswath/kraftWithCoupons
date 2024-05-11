@@ -1,4 +1,4 @@
-**Will a Customer Accept the Coupon?**
+**Problem Analysis - Will a Customer Accept the Coupon?**
 
 **Associated Program**
 
@@ -15,7 +15,7 @@ Obviously, proximity to the business is a factor on whether the coupon is delive
 
 The goal of this project is to use what I have learned  about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
 
-**RepoHome**
+**Repo Home for Problem Analysis and Summary**
 
 This repo hosts the Project outcome, in the following order.
 
@@ -24,7 +24,8 @@ This repo hosts the Project outcome, in the following order.
 3. Summary that highlight differences between customers who did and did not accept the coupons
 
 
-**Data Description**
+****Data Description****
+
 The attributes of this data set include:
 
 ****User attributes****
