@@ -1,6 +1,7 @@
 **Problem Statement: Will a Customer Accept the Coupon?**
 
 ***Program***
+
 Berkeley HAAS Professional Certificate in Artificial Intelligence and Machine Learning - Apr 2024
 
 
