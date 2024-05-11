@@ -17,7 +17,8 @@ The goal of this project is to use what I have learned  about visualizations and
 
 ***What does this repository host?***
 
-In short, this repo hosts the Project outcome. It contains 
-1. Dataset from UCI Machine Learning repository: ./data/coupons.csv
-2. Jupyter Notebook that analysis data set provided with plots and conclusions made on whether: customer_coupon_acceptance.ipynb 	
-3. Summary to highlight differences between customers who did and did not accept the coupons: ./reports/report.doc 		        
+This repo hosts the Project outcome, in the following order:
+
+1. Dataset from UCI Machine Learning repository: 
+2. Jupyter Notebook that analysis data set provided with plots and conclusions made on customer acceptance of varied coupon types
+3. Summary that highlight differences between customers who did and did not accept the coupons    
