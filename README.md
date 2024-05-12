@@ -12,13 +12,13 @@ Obviously, proximity to the business is a factor on whether the coupon is delive
 
 The goal of this project is to use what I have learned  about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
 
-**Repo Home for Problem Analysis and Summary**
+**What does this repo contain? Problem Analysis and Summary**
 
-This repo hosts the Project outcome, in the following order.
+This repo hosts the analysis and summary in the below detailed directory structure.
 
-1. Dataset from UCI Machine Learning repository
-2. Jupyter Notebook that analysis data set provided with plots and conclusions made on customer acceptance of varied coupon types
-3. Summary that highlight differences between customers who did and did not accept the coupons
+1. Dataset from UCI Machine Learning repository - in a data folder
+2. Jupyter Notebook that analysis data set provided with plots and conclusions made on customer acceptance of varied coupon types - data driven analysis in parent folder
+3. Summary that highlight differences between customers who did and did not accept the coupons - in a report folder
 
 
 ****Data Description****
