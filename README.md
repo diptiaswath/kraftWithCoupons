@@ -47,7 +47,7 @@ Number of times that he/she buys takeaway food: 0, less than 1, 1 to 3, 4 to 8 o
 
 Number of times that he/she goes to a coffee house: 0, less than 1, 1 to 3, 4 to 8 or greater than 8
 
-Number of times that he/she eats at a restaurant with average expense less than $20 per person: 0, less than 1, 1 to 3, 4 to 8 or greater than 8
+Number of times that he/she eats at a restaurant with average expense less than $20 per person: 0, less than 1, 1 to 3, 4 to 8, greater than 8
 
 Number of times that he/she goes to a bar: 0, less than 1, 1 to 3, 4 to 8 or greater than 8
 
