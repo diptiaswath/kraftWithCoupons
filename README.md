@@ -1,4 +1,4 @@
-In the context of the Berkeley HAAS Professional Certificate in Artificial Intelligence and Machine Learning course, this repository explores an analysis centered on data-driven insights for a Problem outlined below.
+This repository explores an analysis centered on data-driven insights for the Problem outlined below.
 
 **Problem Statement - Will a Customer Accept the Coupon?**
 
